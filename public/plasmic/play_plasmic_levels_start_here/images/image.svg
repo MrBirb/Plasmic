@@ -1,3 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 128 128" height="128" width="128">
-<rect stroke-dasharray="4 4" stroke="black" height="127" width="127" y="0.5" x="0.5"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" fill="none" viewBox="0 0 128 128"><rect width="127" height="127" x=".5" y=".5" stroke="#000" stroke-dasharray="4 4"/></svg>
